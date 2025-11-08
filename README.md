@@ -2,6 +2,17 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
+<div align="center">
+  <a href="https://drive.google.com/file/d/1PxsS5bux1DPJ15izxQ5ZaOxUXLXVBwbq/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/View%20My%20CV-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Google Drive CV" />
+  </a>
+  <a href="https://hassang04.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/My%20Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio Website" />
+  </a>
+</div>
+
+<br>
+
 ###
 
 <h1 align="left">Welcome to my GitHub!</h1>
@@ -12,7 +23,7 @@
 
 ###
 
-<p align="left">-My name is Hassan from Alexandria ,Egypt .<br>-I’m working as an Artificial Intelligence Engineer 🔭.<br>-I'm currently learning at Arab Academy for Science,Technology and Maritime Technology 📚.</p>
+<p align="left">-My name is Hassan and I am from Alexandria ,Egypt .<br>-I’m working as an Artificial Intelligence Engineer 🔭.<br>-I'm currently learning at Arab Academy for Science,Technology and Maritime Technology 📚.</p>
 
 ###
 
