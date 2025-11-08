@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">-My name is Hassan from Alexandria ,Egypt .<br>-I’m working as an Artificial Intelligence Engineer 🔭.<br>-I'm currently learning at Arab Academy for Science,Technology and Maritime Technolog 📚.</p>
+<p align="left">-My name is Hassan from Alexandria ,Egypt .<br>-I’m working as an Artificial Intelligence Engineer 🔭.<br>-I'm currently learning at Arab Academy for Science,Technology and Maritime Technology 📚.</p>
 
 ###
 
