@@ -38,9 +38,10 @@
 
 </td>
 <td width="30%" align="center" valign="middle">
-  <!-- <img width="200px" alt="robot" src="https://media2.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/><br>
-  <img width="100px" alt="CD" src="https://media1.giphy.com/media/xUOwG6WpYHxPEx86EE/giphy.gif"/> -->
+  <img width="200px" alt="database" src="https://cdn.dribbble.com/userupload/22252775/file/original-ef70ecef4b9bf27b385020aad29b0ea2.gif"/><br>
+  <img width="100px" alt="loading" src="https://upload.wikimedia.org/wikipedia/commons/a/ad/YouTube_loading_symbol_3_%28transparent%29.gif"/>
 </td>
+
 </tr>
 </table>
 
