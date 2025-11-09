@@ -1,7 +1,6 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
-
+<p align="center">
+  <img src="assets/landscape.gif" width="100%" alt="Banner"/>
+</p>
 <div align="center">
   <a href="https://drive.google.com/file/d/1PxsS5bux1DPJ15izxQ5ZaOxUXLXVBwbq/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/View%20My%20CV-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Google Drive CV" />
@@ -9,21 +8,42 @@
   <a href="https://hassang04.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/My%20Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio Website" />
   </a>
+  <a href="https://www.linkedin.com/in/hassang04/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  </a>
 </div>
 
 <br>
 
 ###
 
-<h1 align="left">Welcome to my GitHub!</h1>
+<h1 align="center">Hassan Gebril</h1>
+<p align="center"><i>Doesn't matter what's the job,What matters is getting it done.</i></p>
 
 ###
 
-<h3 align="left">👩‍💻  About Me :</h3>
+<table>
+<tr>
+<td width="70%">
 
-###
+### About Me  
 
-<p align="left">-My name is Hassan and I am from Alexandria ,Egypt .<br>-I’m working as an Artificial Intelligence Engineer 🔭.<br>-I'm currently learning at Arab Academy for Science,Technology and Maritime Technology 📚.</p>
+- 🎓 **B.Sc. in Artificial Intelligence (Data Science Major), 2027** – *Arab Academy for Science, Technology & Maritime Transport*  
+- 📚 **Participated in ECPC multiple times and was qualified by reaching the 25th position.**
+- 📊 **Advanced knowledge and experience with database management and visualization.**  
+- 💡 **Passionate** about learning more from AI, NLP and Computer Vision field.
+- 👔 **Open to collaborations** in AI, Computer Vision, and NLP projects.
+- 📫 **Contact me:** <a href="mailto:hassangebrill2004@gmail.com">hassangebrill2004@gmail.com</a>  
+
+
+</td>
+<td width="30%" align="center" valign="middle">
+  <!-- <img width="200px" alt="robot" src="https://media2.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/><br>
+  <img width="100px" alt="CD" src="https://media1.giphy.com/media/xUOwG6WpYHxPEx86EE/giphy.gif"/> -->
+</td>
+</tr>
+</table>
+
 
 ###
 
@@ -31,7 +51,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
@@ -61,23 +81,14 @@
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=HassanG04&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HassanG04&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=HassanG04&theme=darkhub&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HassanG04&radius=16&theme=github-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
 
-###
-
-<h3 align="left">Socials 🌐 :</h3>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/hassang04/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div>
+      <img src="https://github-readme-stats.vercel.app/api?username=HassanG04&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HassanG04&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+      <img src="assets/kalb.gif" height="150" alt="pixel art gif" style="margin-right: auto;" />
+      <img src="https://github-profile-trophy.vercel.app?username=HassanG04&theme=darkhub&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  </div>
 </div>
 
 ###
