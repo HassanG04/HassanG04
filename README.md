@@ -18,7 +18,7 @@
 ###
 
 <h1 align="center">Hassan Gebril</h1>
-<p align="center"><i>Doesn't matter what's the job,What matters is getting it done.</i></p>
+<p align="center"><i>Doesn't matter what the job is,What matters is getting it done.</i></p>
 
 ###
 
