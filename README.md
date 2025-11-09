@@ -38,8 +38,10 @@
 
 </td>
 <td width="30%" align="center" valign="middle">
-  <img width="200px" alt="database" src="https://cdn.dribbble.com/userupload/22252775/file/original-ef70ecef4b9bf27b385020aad29b0ea2.gif"/><br>
-  <img width="100px" alt="loading" src="https://upload.wikimedia.org/wikipedia/commons/a/ad/YouTube_loading_symbol_3_%28transparent%29.gif"/>
+  <img width="150px" alt="database" src="assets/AASTMT_Logo.png"/>
+  <br>
+  <br>
+  <img width="100px" alt="loading" src="assets/server.png"/>
 </td>
 
 </tr>
@@ -78,6 +80,28 @@
 
 ###
 
+### My Top Projects on GitHub  
+
+<p align="center">
+  <a href="https://github.com/HassanG04/Cellula_LSTM_Week1"><img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=HassanG04&repo=Cellula_LSTM_Week1&theme=react" alt="Cellula_LSTM_Week1"/></a>
+  <a href="https://github.com/HassanG04/Uber-Fare-Prediction"><img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=HassanG04&repo=Uber-Fare-Prediction&theme=react" alt="Uber-Fare-Prediction"/></a>
+  <a href="https://github.com/HassanG04/ShopLifting_Detection"><img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=HassanG04&repo=ShopLifting_Detection&theme=react" alt="ShopLifting_Detection"/></a>
+</p>
+
+<details>
+  <summary>Future Repos I am going to post <- </summary>
+  
+  - **Cancerous cell detection using CNN** – Realtime cell detection using a CNN model.
+  - **Rock,Paper and Scissors** - Working on creating an online gameplay application.
+  - **LSTM Training** - Working on the basics of NLP.
+  - **NLP merging with MongoDB** - After reaching an advanced level in NLP , I will merge an LLM with a database.
+</details>
+
+---
+
+
+###
+
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
@@ -87,7 +111,7 @@
   <div>
       <img src="https://github-readme-stats.vercel.app/api?username=HassanG04&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HassanG04&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-      <img src="assets/kalb.gif" height="150" alt="pixel art gif" style="margin-right: auto;" />
+      <img src="https://raw.githubusercontent.com/HassanG04/HassanG04/main/assets/kalb.gif" height="150" alt="pixel art gif" style="margin-right: auto;" />
       <img src="https://github-profile-trophy.vercel.app?username=HassanG04&theme=darkhub&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
   </div>
 </div>
@@ -97,6 +121,8 @@
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=180&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
+
+<h6>I created my cv using LaTeX..<br>I also stole most of this template from an amazing cat named <a href="https://github.com/ffathy-tdx">Fares Fathy</a>..oops</h6>
 
 ###
 
