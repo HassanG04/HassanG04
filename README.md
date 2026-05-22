@@ -2,7 +2,7 @@
   <img src="assets/landscape.gif" width="100%" alt="Banner"/>
 </p>
 <div align="center">
-  <a href="https://drive.google.com/file/d/1Hxm_glu9D62mHSK0lVjKW1_i8oPPclxD/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/drive/folders/1PpwyqrEFpiQ_cHfw4pXXlBEPmE6P9rpv?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/View%20My%20CV-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Google Drive CV" />
   </a>
   <a href="https://hassang04.github.io/" target="_blank">
