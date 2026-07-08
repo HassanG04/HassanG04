@@ -9,7 +9,7 @@
   <a href="https://hassang04.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/My%20Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio Website" />
   </a>
-  <a href="https://www.linkedin.com/in/hassang04/" target="_blank">
+  <a href="https://linkedin.com/in/hassang04" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:hassangebrill2004@gmail.com">
@@ -22,9 +22,9 @@
 <h1 align="center">Hassan Gebril</h1>
 <p align="center"><i>Doesn't matter what the job is — what matters is getting it done.</i></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Data%20Scientist-informational?style=flat-square&color=0d1117" />
-  <img src="https://img.shields.io/badge/NLP%20Engineer-informational?style=flat-square&color=0d1117" />
-  <img src="https://img.shields.io/badge/Computer%20Vision%20Enthusiast-informational?style=flat-square&color=0d1117" />
+  <img src="https://img.shields.io/badge/AI%20%2F%20ML%20Engineer-informational?style=flat-square&color=0d1117" />
+  <img src="https://img.shields.io/badge/NLP-informational?style=flat-square&color=0d1117" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-informational?style=flat-square&color=0d1117" />
 </p>
 
 ---
@@ -37,11 +37,11 @@
 
 - 🎓 **B.Sc. in Artificial Intelligence (Data Science Major), 2027**  
   *Arab Academy for Science, Technology & Maritime Transport*
-- 🏆 **ECPC Competitor** — Qualified and reached **25th position**
-- 📊 **Advanced knowledge** in database management & data visualization
-- 🤖 **Currently building** in AI, NLP, and Computer Vision
-- 👔 **Open to collaborations** in AI, Computer Vision, and NLP projects
-- 📍 Alexandria, Egypt
+- 💼 **AI Engineering Intern @ Cellula Technologies** (Jul – Nov 2025) — shipped ML models to production, from tabular regression to satellite-imagery segmentation
+- 🏆 **ECPC** — ranked **25th** in qualifications, advanced to the next stage
+- 🤖 **Building in applied ML** — computer vision, NLP/transformers, and tabular modeling with a focus on rigorous evaluation (SHAP, calibration, held-out testing)
+- 👔 **Open to AI/ML internships** and collaborations in Computer Vision & NLP
+- 📍 Alexandria, Egypt *(open to relocation)*
 - 📫 [hassangebrill2004@gmail.com](mailto:hassangebrill2004@gmail.com)
 
 </td>
@@ -69,19 +69,30 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript"/>
   <img width="10" />
 
-  <!-- AI/ML -->
+  <!-- AI/ML core -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch" title="PyTorch"/>
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow" title="TensorFlow"/>
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch" title="PyTorch"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="Scikit-learn" title="Scikit-learn"/>
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy" title="NumPy"/>
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" title="Pandas"/>
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="Scikit-learn" title="Scikit-learn"/>
-  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter" title="Jupyter"/>
   <img width="10" />
+
+  <!-- AI/ML specialized (the actual differentiators — gradient boosting, CV, NLP) -->
+  <img src="https://img.shields.io/badge/XGBoost-EB0028?style=flat-square" height="26" alt="XGBoost"/>
+  <img src="https://img.shields.io/badge/LightGBM-02569B?style=flat-square" height="26" alt="LightGBM"/>
+  <img src="https://img.shields.io/badge/CatBoost-FFCC00?style=flat-square&logoColor=black" height="26" alt="CatBoost"/>
+  <img src="https://img.shields.io/badge/YOLOv8-111F68?style=flat-square" height="26" alt="YOLOv8"/>
+  <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Transformers-FFD21E?style=flat-square&logoColor=black" height="26" alt="Hugging Face Transformers"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" height="26" alt="OpenCV"/>
+  <img src="https://img.shields.io/badge/SHAP-8A2BE2?style=flat-square" height="26" alt="SHAP"/>
+  <img src="https://img.shields.io/badge/Optuna-0078D4?style=flat-square" height="26" alt="Optuna"/>
+  <br><br>
 
   <!-- Web & Backend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="Django" title="Django"/>
@@ -111,26 +122,26 @@
 ### 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/HassanG04/heart-detection-model">
-    <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=HassanG04&repo=heart-detection-model&theme=react" alt="heart-detection-model"/>
-  </a>
-  <a href="https://github.com/HassanG04/Hotel-Cancellation-Prediciton">
-    <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=HassanG04&repo=Hotel-Cancellation-Prediciton&theme=react" alt="Hotel-Cancellation-Prediction"/>
-  </a>
   <a href="https://github.com/HassanG04/Uber-Fare-Prediction">
     <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=HassanG04&repo=Uber-Fare-Prediction&theme=react" alt="Uber-Fare-Prediction"/>
+  </a>
+  <a href="https://github.com/HassanG04/River-Flood-Prediction">
+    <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=HassanG04&repo=River-Flood-Prediction&theme=react" alt="River-Flood-Prediction"/>
+  </a>
+  <a href="https://github.com/HassanG04/ShopLifting_Detection">
+    <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=HassanG04&repo=ShopLifting_Detection&theme=react" alt="ShopLifting_Detection"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/HassanG04/ShopLifting_Detection">
-    <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=HassanG04&repo=ShopLifting_Detection&theme=react" alt="ShopLifting_Detection"/>
+  <a href="https://github.com/HassanG04/yet_another_heart_disease_application">
+    <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=HassanG04&repo=yet_another_heart_disease_application&theme=react" alt="Heart-Disease-Prediction"/>
   </a>
-  <a href="https://github.com/HassanG04/Automatic-Box-Opener">
-    <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=HassanG04&repo=Automatic-Box-Opener&theme=react" alt="Automatic-Box-Opener"/>
+  <a href="https://github.com/HassanG04/Emoji_Recognition">
+    <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=HassanG04&repo=Emoji_Recognition&theme=react" alt="Emoji_Recognition"/>
   </a>
-  <a href="https://github.com/HassanG04/Cellula_LSTM_Week1">
-    <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=HassanG04&repo=Cellula_LSTM_Week1&theme=react" alt="Cellula_LSTM_Week1"/>
+  <a href="https://github.com/HassanG04/cancer_cell_detection">
+    <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=HassanG04&repo=cancer_cell_detection&theme=react" alt="cancer_cell_detection"/>
   </a>
 </p>
 
@@ -138,9 +149,7 @@
   <summary>🔭 Upcoming Projects</summary>
   <br>
 
-  - **Cancerous Cell Detection using CNN** – Real-time cell detection using a convolutional neural network.
   - **Rock, Paper & Scissors** – Online multiplayer gameplay application.
-  - **LSTM Training** – Exploring the fundamentals of sequence modeling and NLP.
   - **NLP + MongoDB Integration** – Merging an LLM with a database for intelligent querying.
 
 </details>
